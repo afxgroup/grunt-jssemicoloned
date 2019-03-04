@@ -1,5 +1,5 @@
 'use strict';
-var acorn = require('acorn-loose');
+var acorn = require('acorn');
 
 exports.init = function (grunt) {
 
