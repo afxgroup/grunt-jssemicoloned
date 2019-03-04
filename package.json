@@ -21,7 +21,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "acornjs": "latest"
+    "acorn": "git+https://github.com/afxgroup/acorn.git"
   },
   "devDependencies": {
     "grunt": "~0.4.0",
