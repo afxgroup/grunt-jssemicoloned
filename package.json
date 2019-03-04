@@ -2,14 +2,14 @@
   "name": "grunt-semicolonize",
   "description": "Insert semicolons into JavaScript source.",
   "version": "0.0.2",
-  "homepage": "https://github.com/tamilmgithub/grunt-jssemicoloned",
+  "homepage": "https://github.com/afxgroup/grunt-jssemicoloned",
   "author": "Kristof Neirynck",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tamilmgithub/grunt-jssemicoloned.git"
+    "url": "git://github.com/afxgroup/grunt-jssemicoloned.git"
   },
   "bugs": {
-    "url": "https://github.com/tamilmgithub/grunt-jssemicoloned/issues"
+    "url": "https://github.com/afxgroup/grunt-jssemicoloned/issues"
   },
   "license": "MIT",
   "main": "grunt.js",
